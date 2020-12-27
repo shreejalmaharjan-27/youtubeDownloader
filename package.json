@@ -2,9 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
- "scripts": {
-  "start": "node script.js"
+  "main": "index.js"
 },
   "author": "",
   "license": "ISC",
